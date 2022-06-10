@@ -10,7 +10,7 @@ Una vez hechas todas las configuraciones nos aparecen distintas pestañas:
 
 - En la pestaña **Tickets Details** aparecen todos los detalles del ticket.
 
-[!Imagen10](imagen10.png)
+![Imagen10](imagen10.png)
 
 ![Imagen11](imagen11.png)
 
@@ -34,7 +34,7 @@ Una vez hechas todas las configuraciones nos aparecen distintas pestañas:
 
 ![Imagen16](imagen16.png)
 
-![Imagen17](imagen17.pngg)
+![Imagen17](imagen17.png)
 
 **7. Settings**: Aquí tenemos la configuración.
 
